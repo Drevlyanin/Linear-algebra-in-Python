@@ -1,7 +1,7 @@
 # Linear-algebra-in-Python
 
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/wX-Yr8A7WuQAAAAC/matrix-brilliant.gif" width="400"/>
+  <img src="https://tenor.com/ru/view/meonly-gif-19710542" width="400"/>
 </div>
 <div id="badges" align="center">
 <h1>
