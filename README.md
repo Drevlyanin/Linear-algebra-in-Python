@@ -1,7 +1,7 @@
 # Linear-algebra-in-Python
 
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/bxeM9N2IXLsAAAAd/osita-osita-iheme.gif" width="400"/>
+  <img src="https://media1.tenor.com/m/bxeM9N2IXLsAAAAd/osita-osita-iheme.gif" width="400"/>
 </div>
 
 <div id="badges" align="center">
@@ -18,10 +18,11 @@ This repository contains a short summary of linear algebra concepts and examples
 
 The summary covers the following topics:
 
-Vectors and matrices
-Linear equations
-Eigenvalues and eigenvectors
-Singular value decomposition
-Least squares
-Principal component analysis
+1. Vectors and matrices
+2. Linear equations
+3. Eigenvalues and eigenvectors
+4. Singular value decomposition
+5. Least squares
+6. Principal component analysis
+
 I hope this revised README is helpful and informative! Please let me know if you have any further questions.
