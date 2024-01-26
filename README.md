@@ -19,7 +19,7 @@ This repository contains a short summary of linear algebra concepts and examples
 The summary covers the following topics:
 
 1. Vectors and matrices
-2. Linear equations
+2. Solving systems of linear equations
 3. Eigenvalues and eigenvectors
 4. Singular value decomposition
 5. Least squares
