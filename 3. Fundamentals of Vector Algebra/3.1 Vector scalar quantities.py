@@ -1,4 +1,3 @@
-import numpy as np
 """
 If we consider a vector as an algebraic object, then it can be represented as a row or column of numbers,
 those. as a matrix of size (1, n), (n, 1)^2.
