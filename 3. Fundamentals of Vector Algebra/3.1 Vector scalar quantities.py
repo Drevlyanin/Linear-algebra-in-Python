@@ -8,7 +8,7 @@ Scalar quantity - characterized only by a numerical value.
 Vector quantity - characterized by numerical value and direction.
 
 A vector is denoted by one small Latin letter a, or two large Latin letters AB.
-a is the starting point of the vector.
+α is the starting point of the vector.
 AB is the end of the vector.
-|a| - vector length (vector modulus).
+|α| - vector length (vector modulus).
 """
