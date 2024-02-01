@@ -1,16 +1,16 @@
 import numpy as np
 """
 The coordinates of a vector are its projections on the coordinate axes:
-a = (ax, ay, az),
-    proxa = ax,
-    proya = ay,
-    proza = az.
+α = (a_x, a_y, a_z),
+    pr_ox α = a_x,
+    pr_oy α = a_y,
+    pr_oz α = a_z.
  
 If the coordinates of the starting and ending points are known,
 then the coordinates of the vector are determined as follows:
-    ax = x2 - x1,
-    ay = y2 - y1,
-    az = z2- z1.
+    a_x = x_2 - x_1,
+    a_y = y_2 - y_1,
+    a_z = z_2- z_1.
  
 Consider a vector whose initial point has coordinates A(1,2,3),
 final - B(7,9,5). Then the vector AB, expressed in terms of the coordinates of the projections onto
