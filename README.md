@@ -1,5 +1,4 @@
 # Linear-algebra-in-Python
-
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/bxeM9N2IXLsAAAAd/osita-osita-iheme.gif" width="400"/>
 </div>
