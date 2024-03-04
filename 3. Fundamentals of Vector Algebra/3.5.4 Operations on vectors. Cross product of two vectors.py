@@ -1,7 +1,6 @@
 import numpy as np
 
 """
-    α × β = |α| × |β| × cos(φ)
 The vector product of two vectors α and β is the third vector c = α × β,
 which satisfies the following conditions:
     1. Vector c is perpendicular to vectors α and β.
