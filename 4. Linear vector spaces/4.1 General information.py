@@ -31,7 +31,7 @@ a = np.array([[1,2]]).T
 b = np.array([[3,4]]).T
 c = np.array([[5,6]]).T
 L = a +(b + c)
-R = a + b)+ c
+R = (a + b)+ c
 print(L)
 print(R)
 
