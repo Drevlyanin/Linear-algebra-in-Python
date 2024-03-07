@@ -22,7 +22,7 @@ print(Y_m)
 
 Z_m = np.matrix(A)
 Z_m[:, 2] = B
-print(Z_m)
+print(Z_m) 
 
 x = np.linalg.det(X_m) / A_det
 y = np.linalg.det(Y_m) / A_det
