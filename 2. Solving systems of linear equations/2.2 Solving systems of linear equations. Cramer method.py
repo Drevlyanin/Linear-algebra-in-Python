@@ -4,6 +4,7 @@ import numpy as np
 Cramer's method is suitable for solving inhomogeneous systems of linear equations.
 N.B. The determinant of the main matrix of the system must not be different from zero!
 """
+
 A = np.matrix(' 3 -1 2; 1 4 -1; 2 3 1') # Main matrix of the system with known components of the left side.
 B = np.matrix('-4; 10; 8') # Matrix of elements of the right sides.
 print("Matrix with know components:\n", A)
