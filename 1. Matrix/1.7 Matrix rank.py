@@ -6,7 +6,6 @@ Linear independence means that rows (columns) cannot be expressed linearly in te
 The rank of a matrix can be found through its minors; it is equal to the largest minor order that is not zero.
 The existence of a rank of a matrix does not depend on whether it is square or not.
 """
-
  
 m_eye = np.eye(4) # Create an identity matrix.
 print("Identity matrix =\n", m_eye)
