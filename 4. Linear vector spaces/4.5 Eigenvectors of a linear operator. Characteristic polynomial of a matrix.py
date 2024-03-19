@@ -2,8 +2,7 @@ import numpy as np
 
 """
 If from matrix A we subtract the identity matrix E multiplied by some
-variable λ, we obtain a matrix called characteristic
-matrix matrix A.
+variable λ, we obtain a matrix called characteristic matrix matrix A.
 """
 A = np.matrix("1 4 1; 0 2 2 ; 0 0 3")
 
