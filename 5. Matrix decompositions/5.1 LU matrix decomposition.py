@@ -16,7 +16,7 @@ Let's consider a numerical example - expansion
 """
 # Create LU-decomposition of the following matrix.
 A = np.array([[4, 1, 3], [8, 1, 8], [-12, -4, -6]])
-print("LU -decomposition of the following matrix:\n", A)
+print("LU-decomposition of the following matrix:\n", A)
 
 """
 Using elementary transformations we reduce it to the upper triangular
@@ -27,7 +27,7 @@ R1 = np.array([[1, 0, 0],[2, -1, 0],[3, 0, 1]])
 R2 = np.array([[1, 0, 0],[0, 1, 0],[0, 1, 1]])
 
 U = R2.dot(R1.dot(A))
-print("\nU :\n", U)
+print("\nU:\n", U)
 
 """
 If the product of matrices that perform equivalent
@@ -41,7 +41,7 @@ print("\nT:\n", T)
 L = np.linalg.inv(T)
 print("\nL:\n", L)
 
-print("\n L × U", L.dot(U))
+print("\n L × U:\n", L.dot(U))
 
 """
 LU Decomposition can be performed using a special function from the library
@@ -52,8 +52,8 @@ permutation matrix.
 """
 
 P, L, U = la.lu(A)
-print("\nP :\n", P)
-print("\nL :\n", L)
-print("\nA :\n", A)
-print("\nU :\n", U)
-print("\nP.dot(L.dot(U) :\n", P.dot(L.dot(U)))
+print("\nP:\n", P)
+print("\nL:\n", L)
+print("\nA:\n", A)
+print("\nU:\n", U)
+print("\nP.dot(L.dot(U)):\n", P.dot(L.dot(U)))
