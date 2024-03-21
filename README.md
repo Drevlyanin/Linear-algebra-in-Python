@@ -20,9 +20,8 @@ The summary covers the following topics:
 
 1. Vectors and matrices
 2. Solving systems of linear equations
-3. Eigenvalues and eigenvectors
-4. Singular value decomposition
-5. Least squares
-6. Principal component analysis
+3. Fundamentals of Vector Algebra
+4. Linear vector spaces
+5. Matrix decompositions
 
 I hope this revised README is helpful and informative! Please let me know if you have any further questions.
