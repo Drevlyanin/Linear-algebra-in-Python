@@ -3,7 +3,6 @@ import numpy as np
 """
 The essence of the singular decomposition of a matrix is that it can be represented
 as a product of three matrices:
-
     A = UΣT^T.
 Where matrix U is orthogonal, Σ - diagonal, T - orthogonal.
 
