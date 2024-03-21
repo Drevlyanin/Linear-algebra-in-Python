@@ -12,8 +12,6 @@ matrices shows how such a linear operation can be turned into
 sequential vector rotation, scaling (stretching or shrinking) and
 rotation again
 """
-
-# Perform QR decomposition for the following matrix.
 A = np.matrix("1 0 1; 0 1 0; 1 0 1")
 print("Matrix A:\n", A)
 
