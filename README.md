@@ -18,10 +18,9 @@ This repository contains a short summary of linear algebra concepts and examples
 
 The summary covers the following topics:
 
-1. Vectors and matrices
+1.Vectors and matrices
 2. Solving systems of linear equations
 3. Fundamentals of Vector Algebra
 4. Linear vector spaces
 5. Matrix decompositions
-
-I hope this revised README is helpful and informative! Please let me know if you have any further questions.
+6. Complex numbers.
