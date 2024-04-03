@@ -24,3 +24,5 @@ The summary covers the following topics:
 4. Linear vector spaces
 5. Matrix decompositions
 6. Complex numbers.
+
+NB. To work with files, do not forget to install the libraries: numpy, scipy, cmath.
