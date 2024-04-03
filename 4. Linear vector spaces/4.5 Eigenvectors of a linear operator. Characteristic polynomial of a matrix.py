@@ -9,7 +9,7 @@ A = np.matrix("1 4 1; 0 2 2 ; 0 0 3")
 """
 The determinant of such a matrix will be a polynomial of the nth degree in λ and can
 treated as a function:
-f(λ) = | A - λE|.
+f(λ) = |A - λE|.
 
 Let's use the capabilities of Python and the Numpy library to calculate roots
 characteristic equation of the matrix:
