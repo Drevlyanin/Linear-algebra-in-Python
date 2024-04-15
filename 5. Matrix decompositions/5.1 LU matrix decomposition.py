@@ -1,5 +1,6 @@
 import numpy as np
 import scipy.linalg as la
+
 """
 LU decomposition is used to represent a matrix as a product of two
 matrices: - lower triangular matrix and - upper triangular matrix:
